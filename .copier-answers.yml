@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.3.5
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: contact@jensmeisner.net
+author_name: Jens Meisner
+has_binder: false
+has_settings: false
+kind: frontend
+labextension_name: jupyterlab_renardo
+project_short_description: FoxDot/Renardo Live-Coding Music Extension For JupyterLab
+python_name: jupyterlab_renardo
+repository: https://github.com/iShapeNoise/jupyterlab_renardo
+test: true
+
